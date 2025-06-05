@@ -3,7 +3,7 @@
   <img src="https://your-banner-url.com/banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">¡Hola! Soy Tu Nombre 👋</h1>
+<h1 align="center">¡Hola! Soy Alex Olmos 👋</h1>
 
 <p align="center">
   Soy un <strong>Backend Developer</strong> apasionado por crear experiencias web increíbles.<br/>
